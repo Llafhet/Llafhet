@@ -3,7 +3,7 @@
 Desarrollador Frontend enfocado en interfaces claras y funcionales.
 
 ## Stack y enfoque
-- **🔭Frontend:** HTML, CSS, JavaScript, Vue3
+- **🔭Frontend:** HTML, CSS, JavaScript y Vue3
 - **🌱En aprendizaje:** TypeScript / UI design
 
 <!--
