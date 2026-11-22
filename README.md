@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hola, soy Nimrod
+
+Desarrollador Frontend enfocado en interfaces claras y funcionales.
+
+## Stack y enfoque
+- **Frontend:** HTML, CSS, JavaScript, Vue3
+- **En aprendizaje:** TypeScript / UI design
 
 <!--
 **Llafhet/Llafhet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
